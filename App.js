@@ -25,7 +25,6 @@ Sentry.init({
   sessionTrackingIntervalMillis: 10000,
 });
 
-
 export default class App extends React.Component {
   render() {
     return (
